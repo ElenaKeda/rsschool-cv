@@ -24,11 +24,7 @@ My goal: learn something new every day and put it into practice. I love to study
 I have't experience working as a developer, but this is for now :)
 
 ### Education
-* Belarusian National Technical University
-  - Transport communications faculty
-  - engineer
-  - 2009-2014
-
+* Belarusian National Technical University (2009-2014)
 * Online courses on Udemy.com, self-education
 
 ### Language
