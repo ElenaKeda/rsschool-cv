@@ -31,4 +31,5 @@ I have't experience working as a developer, but this is for now :)
 
 * Online courses on Udemy.com, self-education
 
-### English language - B1
+### Language
+English - B1
